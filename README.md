@@ -1,2 +1,2 @@
 # input-field-textarea-react-module
-Hybrid input field that turns into a textarea when the text does not fit into the field completely.
+Textarea that is similar to input field, but on long text that doesn't fit on one line unfolds vertically.
